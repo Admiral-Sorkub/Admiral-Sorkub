@@ -22,9 +22,9 @@
 
 ### Glad to see you here!  
 <div align="center">I'm a Freelanced Blackhat
-Age 24
-17 years of programming.
-I started at age 6.
+Age 25
+18 years of programming.
+I started at age 7.
 I love using python and Command-Line.
 I specialize in OSINT.
 I know all programming languages.
