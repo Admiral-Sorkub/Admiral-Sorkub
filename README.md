@@ -23,12 +23,11 @@
 ### Glad to see you here!  
 <div align="center">I'm a Freelanced Blackhat
 Age 25
-18 years of programming.
-I started at age 7.
-I love using python and Command-Line.
-I specialize in OSINT.
-I know all programming languages.
-(im not a god but i undertand how to read and fix all types) 
+I specialize in 
+SOCMINT= [Social Media Intelligence]
+OSINT=[Open-source intelligence]
+Retired Blackhat - 2006 - 2023
+(i undertand how to read and fix all types) 
 
 Want my proof?
 https://imgur.com/a/UEicwzm</div>  
